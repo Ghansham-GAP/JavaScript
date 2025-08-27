@@ -6,6 +6,6 @@ let food = {
     sideDish : "Raita",
     Dessert : "Gulabjamun"
 };
-console.log("My fav maincourse is : "+food.mainCourse);
-console.log("My fav sidedish is : "+food.sideDish);
+console.log("My fav main course is : "+food.mainCourse);
+console.log("My fav side dish is : "+food.sideDish);
 console.log("My fav dessert is : "+food.Dessert);
