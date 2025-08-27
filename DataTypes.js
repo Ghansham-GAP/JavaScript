@@ -6,4 +6,6 @@ let food = {
     sideDish : "Raita",
     Dessert : "Gulabjamun"
 };
-console.log("My food preferences are : "+food.mainCourse,food.sideDish,food.Dessert);
+console.log("My fav maincourse is : "+food.mainCourse);
+console.log("My fav sidedish is : "+food.sideDish);
+console.log("My fav dessert is : "+food.Dessert);
